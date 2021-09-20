@@ -22,8 +22,6 @@ colorama==0.4.4
 cycler==0.10.0
 decorator==5.0.9
 defusedxml==0.7.1
-distlib==0.3.1
-dlib==19.21.1
 entrypoints==0.3
 fake-useragent==0.1.11
 filelock==3.0.12
